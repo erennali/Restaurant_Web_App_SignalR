@@ -1,0 +1,26 @@
+# Rider ve IDE dosyaları
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+workspace.xml
+
+# Derleme ve çıktı dosyaları
+bin/
+obj/
+
+# Secrets
+secrets.json
+appsettings.Development.json
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+
+# Paketleme ve modüller
+node_modules/
+wwwroot/lib/
