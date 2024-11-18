@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DadNwoPhjAo=",
+  "success": true,
+  "projectFilePath": "/Users/erenalikoca/RiderProjects/WebProjeRestoran/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/erenalikoca/.nuget/packages/microsoft.dotnet.ilcompiler/9.0.0-rc.2.24473.5/microsoft.dotnet.ilcompiler.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "/Users/erenalikoca/.nuget/packages/microsoft.net.illink.tasks/9.0.0-rc.2.24473.5/microsoft.net.illink.tasks.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "/Users/erenalikoca/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/9.0.0-rc.2.24473.5/runtime.osx-arm64.microsoft.dotnet.ilcompiler.9.0.0-rc.2.24473.5.nupkg.sha512"
+  ],
+  "logs": []
+}

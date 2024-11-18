@@ -1,0 +1,17 @@
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/bin/Debug/net9.0/SignalR.BusinessLayer.deps.json
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/bin/Debug/net9.0/SignalR.BusinessLayer.dll
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/bin/Debug/net9.0/SignalR.BusinessLayer.pdb
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/bin/Debug/net9.0/SignalR.DataAccessLayer.dll
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/bin/Debug/net9.0/SignalR.EntityLayer.dll
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/bin/Debug/net9.0/SignalR.DataAccessLayer.pdb
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/bin/Debug/net9.0/SignalR.EntityLayer.pdb
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/SignalR.BusinessLayer.csproj.AssemblyReference.cache
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/SignalR.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/SignalR.BusinessLayer.AssemblyInfoInputs.cache
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/SignalR.BusinessLayer.AssemblyInfo.cs
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/SignalR.BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/SignalR..CCF1CBCC.Up2Date
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/SignalR.BusinessLayer.dll
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/refint/SignalR.BusinessLayer.dll
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/SignalR.BusinessLayer.pdb
+/Users/erenalikoca/RiderProjects/WebProjeRestoran/SignalR.BusinessLayer/obj/Debug/net9.0/ref/SignalR.BusinessLayer.dll
